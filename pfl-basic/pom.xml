@@ -47,11 +47,6 @@
                             !org.glassfish.pfl.basic.tools.*,
                             org.glassfish.pfl.basic.*
                         </Export-Package>
-                        <Import-Package>
-                            sun.misc;resolution=optional,
-                            sun.reflect;resolution=optional,
-                            *
-                        </Import-Package>
                     </instructions>
                 </configuration>
                 <executions>
